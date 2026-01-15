@@ -1,0 +1,1 @@
+export { ReportVotePlaces } from './VotePlaces';

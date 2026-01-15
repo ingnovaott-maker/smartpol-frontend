@@ -1,0 +1,1 @@
+export { DetailVoter } from './DetailVoter';

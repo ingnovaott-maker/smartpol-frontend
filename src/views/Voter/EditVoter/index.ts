@@ -1,0 +1,1 @@
+export { EditVoter } from './EditVoter';

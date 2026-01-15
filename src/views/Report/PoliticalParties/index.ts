@@ -1,0 +1,1 @@
+export { ReportPoliticalParties } from './PoliticalParties';

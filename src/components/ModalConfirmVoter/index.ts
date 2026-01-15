@@ -1,0 +1,1 @@
+export { ModalConfirmVoter } from './ModalConfirmVoter';
